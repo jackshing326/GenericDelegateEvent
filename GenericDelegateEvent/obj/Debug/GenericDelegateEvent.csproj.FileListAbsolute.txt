@@ -1,0 +1,9 @@
+D:\GitHub\GenericDelegateEvent\GenericDelegateEvent\bin\Debug\GenericDelegateEvent.exe.config
+D:\GitHub\GenericDelegateEvent\GenericDelegateEvent\bin\Debug\GenericDelegateEvent.exe
+D:\GitHub\GenericDelegateEvent\GenericDelegateEvent\bin\Debug\GenericDelegateEvent.pdb
+D:\GitHub\GenericDelegateEvent\GenericDelegateEvent\obj\Debug\GenericDelegateEvent.Properties.Resources.resources
+D:\GitHub\GenericDelegateEvent\GenericDelegateEvent\obj\Debug\GenericDelegateEvent.csproj.GenerateResource.Cache
+D:\GitHub\GenericDelegateEvent\GenericDelegateEvent\obj\Debug\GenericDelegateEvent.exe
+D:\GitHub\GenericDelegateEvent\GenericDelegateEvent\obj\Debug\GenericDelegateEvent.pdb
+D:\GitHub\GenericDelegateEvent\GenericDelegateEvent\obj\Debug\GenericDelegateEvent.Form1.resources
+D:\GitHub\GenericDelegateEvent\GenericDelegateEvent\obj\Debug\GenericDelegateEvent.csprojResolveAssemblyReference.cache
